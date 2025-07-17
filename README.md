@@ -22,7 +22,9 @@ pip install -r requirements.txt
 
 ## Set up API Key
 Create .env file own.
+
 format like below: 
+
 GOOGLE_API_KEY=your_api_key_here
 
 ## Run the App
